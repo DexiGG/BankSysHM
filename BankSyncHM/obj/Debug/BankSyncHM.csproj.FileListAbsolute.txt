@@ -1,0 +1,14 @@
+C:\Users\ДжабашевН.CORP\source\repos\BankSyncHM\BankSyncHM\obj\Debug\BankSyncHM.csprojAssemblyReference.cache
+C:\Users\ДжабашевН.CORP\source\repos\BankSyncHM\BankSyncHM\obj\Debug\BankSyncHM.csproj.CoreCompileInputs.cache
+C:\Users\ДжабашевН.CORP\source\repos\BankSyncHM\BankSyncHM\bin\Debug\BankSyncHM.exe.config
+C:\Users\ДжабашевН.CORP\source\repos\BankSyncHM\BankSyncHM\bin\Debug\BankSyncHM.exe
+C:\Users\ДжабашевН.CORP\source\repos\BankSyncHM\BankSyncHM\bin\Debug\BankSyncHM.pdb
+C:\Users\ДжабашевН.CORP\source\repos\BankSyncHM\BankSyncHM\obj\Debug\BankSyncHM.exe
+C:\Users\ДжабашевН.CORP\source\repos\BankSyncHM\BankSyncHM\obj\Debug\BankSyncHM.pdb
+C:\Users\invok\Downloads\BankSyncHM\BankSyncHM\bin\Debug\BankSyncHM.exe.config
+C:\Users\invok\Downloads\BankSyncHM\BankSyncHM\bin\Debug\BankSyncHM.exe
+C:\Users\invok\Downloads\BankSyncHM\BankSyncHM\bin\Debug\BankSyncHM.pdb
+C:\Users\invok\Downloads\BankSyncHM\BankSyncHM\obj\Debug\BankSyncHM.csprojAssemblyReference.cache
+C:\Users\invok\Downloads\BankSyncHM\BankSyncHM\obj\Debug\BankSyncHM.csproj.CoreCompileInputs.cache
+C:\Users\invok\Downloads\BankSyncHM\BankSyncHM\obj\Debug\BankSyncHM.exe
+C:\Users\invok\Downloads\BankSyncHM\BankSyncHM\obj\Debug\BankSyncHM.pdb
